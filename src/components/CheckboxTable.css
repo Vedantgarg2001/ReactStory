@@ -1,0 +1,16 @@
+.checkbox-table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  .checkbox-table th,
+  .checkbox-table td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: center;
+  }
+  
+  .checkbox-table th {
+    background-color: #f4f4f4;
+  }
+  
